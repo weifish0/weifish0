@@ -17,9 +17,9 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/weifish0/count.svg
 
 <br/>  
 
-<img src="https://github-profile-trophy.vercel.app/?username=weifish0&column=8"/>
+<!-- <img src="https://github-profile-trophy.vercel.app/?username=weifish0&column=8"/> -->
 
-<!-- ![](https://raw.githubusercontent.com/weifish0/weifish0/output/github-contribution-grid-snake.svg) -->
+![](https://raw.githubusercontent.com/weifish0/weifish0/output/github-contribution-grid-snake.svg)
 
 
 
