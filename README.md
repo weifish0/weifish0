@@ -12,7 +12,7 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/weifish0/count.svg
 
 <div>
     <img height="165" align="left" src="https://github-readme-stats.vercel.app/api?username=weifish0&theme=tokyonight&show_icons=true" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=weifish0&hide=VHDL,html,css,javascript&theme=tokyonight&langs_count=6&layout=compact" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=weifish0&hide=VHDL&theme=tokyonight&langs_count=6&layout=compact" />
 </div> 
 
 <br/>  
