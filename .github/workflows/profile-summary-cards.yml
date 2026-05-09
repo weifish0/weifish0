@@ -31,11 +31,14 @@ jobs:
           EXCLUDE: VHDL
           AUTO_PUSH: false
 
+      - name: Keep selected theme only
+        run: find profile-summary-card-output -mindepth 1 -maxdepth 1 ! -name tokyonight -exec rm -rf {} +
+
       - name: Commit generated cards
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add profile-summary-card-output
+          git add -A profile-summary-card-output
           git diff --cached --quiet || git commit -m "Generate profile summary cards"
 
       - name: Push generated cards
