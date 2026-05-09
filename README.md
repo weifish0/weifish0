@@ -1,25 +1,63 @@
-### Hi there 👋
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=7AA2F7&center=true&vCenter=true&width=720&lines=Hi%2C+I'm+Wei+%F0%9F%91%8B;I+build+web+apps%2C+tools%2C+and+AI-powered+experiences;Always+learning%2C+shipping%2C+and+polishing" alt="Typing SVG" />
+</p>
 
+<p align="center">
+  <a href="https://github.com/weifish0">
+    <img src="https://komarev.com/ghpvc/?username=weifish0&label=Profile%20views&color=7aa2f7&style=flat" alt="Profile views" />
+  </a>
+  <a href="https://github.com/weifish0?tab=followers">
+    <img src="https://img.shields.io/github/followers/weifish0?label=Followers&style=flat&color=9ece6a" alt="GitHub followers" />
+  </a>
+  <a href="https://github.com/weifish0?tab=repositories">
+    <img src="https://img.shields.io/badge/Portfolio-GitHub-24283b?style=flat&logo=github" alt="GitHub portfolio" />
+  </a>
+</p>
 
+## About Me
 
-You are my ![Visitor Count](https://profile-counter.glitch.me/weifish0/count.svg)th visitor
+I'm a builder who enjoys turning ideas into useful products, from polished frontend experiences to practical backend systems and AI-powered workflows.
 
-<br/>
-<br/>
+- Working on web apps, automation tools, and student/freelance product projects
+- Interested in full-stack development, AI applications, product design, and developer tooling
+- Favorite kind of work: shipping something real, then making it feel better than expected
 
+## Tech Stack
 
-## About My Code
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,python,flutter,dart,tailwind,supabase,firebase,postgres,git,github,vercel&perline=8" alt="Tech stack icons" />
+</p>
 
-<div>
-    <img height="165" align="left" src="https://github-readme-stats.vercel.app/api?username=weifish0&theme=tokyonight&show_icons=true" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=weifish0&hide=VHDL&theme=tokyonight&langs_count=6&layout=compact" />
-</div> 
+## GitHub Dashboard
 
-<br/>  
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=weifish0&theme=tokyonight&show_icons=true&hide_border=true&rank_icon=github" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=weifish0&hide=VHDL&theme=tokyonight&langs_count=8&layout=compact&hide_border=true" alt="Most used languages" />
+</p>
 
-<!-- <img src="https://github-profile-trophy.vercel.app/?username=weifish0&column=8"/> -->
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=weifish0&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+</p>
 
-<!-- ![](https://raw.githubusercontent.com/weifish0/weifish0/output/github-contribution-grid-snake.svg) -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=weifish0&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="GitHub trophies" />
+</p>
 
+## Activity
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=weifish0&theme=tokyo-night&hide_border=true&area=true" alt="GitHub activity graph" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/weifish0/weifish0/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake animation" />
+</p>
+
+## Featured Work
+
+<p align="center">
+  <a href="https://github.com/weifish0?tab=repositories">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=weifish0&repo=weifish0&theme=tokyonight&hide_border=true" alt="Featured repository" />
+  </a>
+</p>
 
