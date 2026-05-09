@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=7AA2F7&center=true&vCenter=true&width=720&lines=Hi%2C+I'm+Wei+%F0%9F%91%8B;I+build+web+apps%2C+tools%2C+and+AI-powered+experiences;Always+learning%2C+shipping%2C+and+polishing" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=7AA2F7&center=true&vCenter=true&width=720&lines=Hi%2C+I'm+Will+%F0%9F%91%8B;I+build+web+apps%2C+tools%2C+and+AI-powered+experiences;Always+learning%2C+shipping%2C+and+polishing" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -31,8 +31,12 @@ I'm a builder who enjoys turning ideas into useful products, from polished front
 ## GitHub Dashboard
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=weifish0&theme=tokyonight&show_icons=true&hide_border=true&rank_icon=github" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=weifish0&hide=VHDL&theme=tokyonight&langs_count=8&layout=compact&hide_border=true" alt="Most used languages" />
+  <img src="https://raw.githubusercontent.com/weifish0/weifish0/main/profile-summary-card-output/tokyonight/0-profile-details.svg" alt="GitHub profile summary" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/weifish0/weifish0/main/profile-summary-card-output/tokyonight/3-stats.svg" alt="GitHub stats" />
+  <img src="https://raw.githubusercontent.com/weifish0/weifish0/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Most used languages" />
 </p>
 
 <p align="center">
@@ -52,12 +56,3 @@ I'm a builder who enjoys turning ideas into useful products, from polished front
 <p align="center">
   <img src="https://raw.githubusercontent.com/weifish0/weifish0/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake animation" />
 </p>
-
-## Featured Work
-
-<p align="center">
-  <a href="https://github.com/weifish0?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=weifish0&repo=weifish0&theme=tokyonight&hide_border=true" alt="Featured repository" />
-  </a>
-</p>
-
