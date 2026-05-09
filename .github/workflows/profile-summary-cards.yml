@@ -8,12 +8,18 @@ on:
 permissions:
   contents: write
 
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: "true"
+
 jobs:
   generate:
     runs-on: ubuntu-latest
     timeout-minutes: 10
 
     steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
       - name: Generate summary cards
         uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
@@ -23,4 +29,14 @@ jobs:
           BRANCH_NAME: main
           UTC_OFFSET: 8
           EXCLUDE: VHDL
-          AUTO_PUSH: true
+          AUTO_PUSH: false
+
+      - name: Commit generated cards
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile-summary-card-output
+          git diff --cached --quiet || git commit -m "Generate profile summary cards"
+
+      - name: Push generated cards
+        run: git push
