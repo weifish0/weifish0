@@ -43,10 +43,6 @@ I'm a builder who enjoys turning ideas into useful products, from polished front
   <img src="https://streak-stats.demolab.com?user=weifish0&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=weifish0&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="GitHub trophies" />
-</p>
-
 ## Activity
 
 <p align="center">
